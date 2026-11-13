@@ -1,4 +1,4 @@
-package com.spring.spring_rest.exception;
+package com.spring.spring_security.exception;
 
 /**
  * Exception thrown when a requested student record cannot be found.

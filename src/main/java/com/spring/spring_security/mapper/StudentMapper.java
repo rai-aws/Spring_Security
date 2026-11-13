@@ -1,7 +1,7 @@
-package com.spring.spring_rest.mapper;
+package com.spring.spring_security.mapper;
 
-import com.spring.spring_rest.dto.StudentDto;
-import com.spring.spring_rest.entity.Student;
+import com.spring.spring_security.dto.StudentDto;
+import com.spring.spring_security.entity.Student;
 
 /**
  * Utility class responsible for converting between Student entities

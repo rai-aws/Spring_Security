@@ -1,4 +1,4 @@
-package com.spring.spring_rest.entity;
+package com.spring.spring_security.entity;
 
 /**
  * Represents the error response returned when an exception occurs.

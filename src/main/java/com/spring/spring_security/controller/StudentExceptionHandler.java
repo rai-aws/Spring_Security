@@ -1,4 +1,4 @@
-package com.spring.spring_rest.controller;
+package com.spring.spring_security.controller;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 
-import com.spring.spring_rest.entity.StudentErrorResponse;
-import com.spring.spring_rest.exception.StudentNotFoundException;
+import com.spring.spring_security.entity.StudentErrorResponse;
+import com.spring.spring_security.exception.StudentNotFoundException;
 
 /**
  * Student exception handler
