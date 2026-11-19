@@ -73,7 +73,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\":\"USER\"\r\n}",
+					"raw": "{\r\n    \"username\":\"ryalee\",\r\n    \"password\": \"Ree@15s\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -81,7 +81,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:8080/api/auth/register_authorized_role",
+					"raw": "http://localhost:8080/api/auth/auth_login",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -90,7 +90,7 @@
 					"path": [
 						"api",
 						"auth",
-						"register_authorized_role"
+						"auth_login"
 					]
 				}
 			},
